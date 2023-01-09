@@ -1,0 +1,15 @@
+{
+    "/js/jquery.min.js": "/js/jquery.min.js",
+    "/js/video.js": "/js/video.js",
+    "/js/videojs-resolution-switcher.js":"/js/videojs-resolution-switcher.js",
+    "/js/axios.min.js": "/js/axios.min.js",
+    "/js/hmac-sha1.js": "/js/hmac-sha1.js",
+    "/js/common.js": "/js/common.js",
+    "/js/valve.js": "/js/valve.js",
+    "/js/videojs.watermark.js": "/js/videojs.watermark.js",
+    "/js/videojs-contrib-quality-levels.js": "/js/videojs-contrib-quality-levels.js",
+    "/js/videojs-http-source-selector.js": "/js/videojs-http-source-selector.js",
+    "/css/video-js.css": "/css/video-js.css",
+    "/image/bcci.png": "/image/bcci.png",
+    "/css/videojs-resolution-switcher.css": "/css/videojs-resolution-switcher.css"
+}

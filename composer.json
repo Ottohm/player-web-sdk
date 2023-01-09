@@ -1,0 +1,17 @@
+{
+    "name": "ottohm/playerwebsdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ottohm",
+            "email": "mediateam.techm@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ottohm\\PlayerWebSDK\\": "src/"
+        }
+    }
+}
